@@ -10,7 +10,7 @@ We'd like to hear your ideas and opinions on what should be in the next meetup!
 
 
 If you would like to suggest and discuss topics for presentations, please look
-through the [issues[(https://github.com/ansible-community/ansible-calgary-meetup/issues
+through the [issues](https://github.com/ansible-community/ansible-calgary-meetup/issues
 ).
 If you'd like to see a presentation about something and it isn't there, feel
 free to create a new issue!
