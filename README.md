@@ -29,9 +29,7 @@ Otherwise, submissions might be kept for the next meetup.
 # Contributing
 
 
-Contributing to the repository is as easy as submitting a `pull request`_ !
-
-.. _pull request: https://github.com/ansible-community/ansible-calgary-meetup/pulls
+Contributing to the repository is as easy as submitting a [pull request](https://github.com/ansible-community/ansible-calgary-meetup/pulls)!
 
 
 
