@@ -1,4 +1,7 @@
-# Ansible Calgary Meetup
+# Ansible Meetup Template
+
+> Edit this repo as suits your meetup. See the [meetup toolkit](https://ansible.readthedocs.io/projects/meetup/en/latest/)
+> for additional resources for meetup organizers.
 
 It turns out that organizing and managing a meetup is much easier when involving
 the community.
@@ -10,7 +13,7 @@ We'd like to hear your ideas and opinions on what should be in the next meetup!
 
 
 If you would like to suggest and discuss topics for presentations, please look
-through the [issues](https://github.com/ansible-community/ansible-calgary-meetup/issues
+through the [issues](https://github.com/ansible-community/your-repo/issues
 ).
 If you'd like to see a presentation about something and it isn't there, feel
 free to create a new issue!
@@ -18,7 +21,7 @@ free to create a new issue!
 # Submitting a talk
 
 
-If you'd like to present a talk, create a [GitHub issue](https://github.com/ansible-community/ansible-calgary-meetup/issues/new/choose
+If you'd like to present a talk, create a [GitHub issue](https://github.com/ansible-community/your-meetup/issues/new/choose
 ).
 
 The discussion regarding dates will take place in the GitHub issue
@@ -29,7 +32,7 @@ Otherwise, submissions might be kept for the next meetup.
 # Contributing
 
 
-Contributing to the repository is as easy as submitting a [pull request](https://github.com/ansible-community/ansible-calgary-meetup/pulls)!
+Contributing to the repository is as easy as submitting a [pull request](https://github.com/ansible-community/your-meetup/pulls)!
 
 
 
